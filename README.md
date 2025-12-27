@@ -2,7 +2,7 @@
 
 ### A budding Javascript developer
 
-- 🌱 I'm currently learning **Sailpoint IIQ, Saviynt, Cyber_Security**
+- 🌱 I'm currently learning **Sailpoint IIQ, Saviynt, IGA (Identity Governance and Administration)**
 
 - 📫 How to reach me **roonk007@gmail.com**
 
